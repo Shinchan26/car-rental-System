@@ -31,7 +31,8 @@ This README provides information on setting up and using the entire system.
 - HTML5
 - CSS3
 - Bootstrap 5
-- JavaScript (optional, for interactivity)
+- JavaScript 
+- Angular 18
 
 ## Getting Started
 
@@ -45,10 +46,5 @@ Before you begin, ensure you have met the following requirements:
 - MySQL (or another compatible database)
 - A web browser for frontend testing
 
-### Installation
 
-1. Clone this repository to your local machine:
-
-   ```sh
-   git clone https://github.com/yourusername/car-rental-fullstack.git
 
